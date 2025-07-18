@@ -1,3 +1,5 @@
+![imag alt](https://github.com/SaniyaSundrani/Product-Manual-Q-A-System/blob/2b99b37a7e74128c271ffddabcd2b73e83567390/output%20module%20.png)
+
 🎯 1. Introduction This project is titled "Product Manual Question Answering System using RAG with Python and AI". It aims to build an intelligent assistant that can read, understand, and answer questions from PDF-based product manuals.
 
 🔹 Built using Python, LangChain, FAISS, Hugging Face, and Groq's LLaMA3 🔹 Provides users with accurate, instant answers from long technical manuals 🔹 Makes technical support and user guidance easier and faster
